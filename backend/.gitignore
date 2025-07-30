@@ -1,0 +1,58 @@
+# Node modules and environment files
+node_modules/
+.env
+.env.*        # For environments like .env.development, .env.production
+.DS_Store     # macOS junk files
+*.log         # Log files
+
+# Dependency files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Optionally ignore package.json if you don’t want it tracked
+# Uncomment if needed:
+# package.json
+
+# Build artifacts
+dist/
+build/
+.out/
+.next/
+coverage/
+temp/
+tmp/
+.cache/
+.vscode/
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+
+# Flutter / Dart (if you also use Flutter)
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.dart_tool/
+build/
+ios/Pods/
+android/.gradle/
+android/local.properties
+
+# VSCode / JetBrains
+.vscode/
+.idea/
+
+# Miscellaneous
+*.sqlite
+*.sqlite3
+*.db
+*.pem
+*.key
+*.crt
+
+# Ignore test snapshots or generated files (optional)
+__snapshots__/
+*.test.js
+*.spec.js

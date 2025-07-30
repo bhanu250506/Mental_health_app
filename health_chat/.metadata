@@ -1,0 +1,54 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+generated_plugin_registrant.dart
+
+# macOS/iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Android
+android/.gradle/
+android/captures/
+android/local.properties
+android/app/debug/
+android/app/release/
+*.jks
+
+# Web
+web/generated_plugin_registrant.dart
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Env files and secrets
+.env
+*.key
+*.pem
+
+# Lock and log files
+pubspec.lock
+*.log
+
+# Optionally ignore:
+# Uncomment if you don't want pubspec.yaml tracked (not recommended)
+ pubspec.yaml
