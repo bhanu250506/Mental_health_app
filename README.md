@@ -14,9 +14,11 @@ Aura is a full-stack, AI-powered mobile application designed to be a safe, suppo
 
 🔐 Secure Authentication: User accounts are secured with JWT (JSON Web Token) authentication, ensuring that all personal data like conversations and mood history is private.
 
-📸 App Screenshots
-<img width="386" height="736" alt="Screenshot 2025-07-28 121656" src="https://github.com/user-attachments/assets/2a08b18b-7598-4a05-ac82-8749e9530291" />
-<img width="382" height="792" alt="Screenshot 2025-07-28 121622" src="https://github.com/user-attachments/assets/5d9cd1fa-f7d2-4904-939d-f8557eca9872" />
-<img width="388" height="797" alt="Screenshot 2025-07-28 121555" src="https://github.com/user-attachments/assets/d447f417-1c0d-44cc-8e63-2be8fb5b8549" />
-<img width="348" height="805" alt="Screenshot 2025-07-28 121415" src="https://github.com/user-attachments/assets/2d7611c8-13d6-459d-8ded-1fc0923b609a" />
-<img width="368" height="798" alt="Screenshot 2025-07-28 121440" src="https://github.com/user-attachments/assets/5753dcd3-d125-4e29-a218-a6f754a9fe28" />
+<img width="360" height="767" alt="image" src="https://github.com/user-attachments/assets/26c45a83-21bc-4642-885d-776c52c38f99" />
+<img width="347" height="781" alt="Screenshot 2026-01-05 221631" src="https://github.com/user-attachments/assets/82086718-50a3-458d-a9c1-7f461f4140cb" />
+<img width="347" height="796" alt="Screenshot 2026-01-05 221549" src="https://github.com/user-attachments/assets/f81d1c91-97c6-4cbe-be9f-3896932a2ff9" />
+<img width="363" height="776" alt="Screenshot 2026-01-05 221603" src="https://github.com/user-attachments/assets/494fb544-d869-4142-a196-166e07519457" />
+
+
+
+
